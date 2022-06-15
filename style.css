@@ -24,6 +24,7 @@ section::before {
     border-radius: 50%;
     transform: translate(-150px, -100px);
 }
+
 section::before {
     content: '';
     position: absolute;
