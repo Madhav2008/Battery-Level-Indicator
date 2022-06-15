@@ -152,8 +152,7 @@ section.dark .percentage {
     font-weight: 700;
 }
 
-section.dark .percent {
- }
+section.dark .percent {}
 
 .toggle {
     position: absolute;
