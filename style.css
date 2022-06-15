@@ -78,5 +78,6 @@ section::after {
 .batteryShape::before {
     content: '';
     position: absolute;
-    top: 50%;transform: translateY();
+    top: 50%;
+    transform: translateY();
 }
