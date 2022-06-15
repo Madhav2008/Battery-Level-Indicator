@@ -114,5 +114,6 @@ section::after {
     top: 0;
     left: 0;
     height: 100%;
-    width: 50%;background: ;
+    width: 50%;
+    background: ;
 }
