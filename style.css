@@ -52,7 +52,7 @@ section::after {
     align-items: center;
 }
 
-.content {}
+.content {display: flex;}
 
 .box h3 {
     color: #9d2cb1;
