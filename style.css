@@ -89,5 +89,5 @@ section::after {
 }
 
 .level {
-    position: absolute;
+    position: absolute;top: 4px;
 }
