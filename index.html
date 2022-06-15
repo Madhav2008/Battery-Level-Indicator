@@ -33,7 +33,11 @@
         let percentage = document.querySelector('.percentage');
         let percent = document.querySelector('.percent');
 
-        navigator.getBattery().then(function (battery) {
+        navigator.getBattery().then(function (battery) { battery.addEventListener('levelchange', function() {    
+    // Do stuff when the level changes, you can get it
+    // from battery.level
+    document.write((battery.level*100)+"%");
+  })
             percentage.style.width = (battery.level * 100) + '%';
             percent.innerHTML = (battery.level * 100) + '%';
         });
