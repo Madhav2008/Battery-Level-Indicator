@@ -153,8 +153,7 @@ section.dark .percentage {
 }
 
 section.dark .percent {
-    background: linear-gradient(90deg, #ffeb3b, #27ff00);
-}
+ }
 
 .toggle {
     position: absolute;
