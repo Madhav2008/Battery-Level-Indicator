@@ -71,5 +71,5 @@ section::after {
     width: 140px;
     height: 65px;
     margin: 20px 0;
-    border: 3px solid #333;
+    border: 3px solid #333;border-radius: 10px;
 }
