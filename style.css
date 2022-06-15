@@ -75,4 +75,4 @@ section::after {
     border-radius: 10px;
 }
 
-.batteryShape
+.batteryShape::before
