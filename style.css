@@ -91,5 +91,6 @@ section::after {
 .level {
     position: absolute;
     top: 4px;
-    left: 4px;right: 4px;
+    left: 4px;
+    right: 4px;
 }
