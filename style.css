@@ -150,7 +150,9 @@ section.dark .percentage {
     color: #fe3177;
     font-size: 2em;
     font-weight: 700;
-}section.dark .percentage {
+}
+
+section.dark .percentage {
     background: linear-gradient(90deg, #ffeb3b, #27ff00);
 }
 
