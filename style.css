@@ -30,7 +30,7 @@ section::after {
     position: absolute;
     width: 250px;
     height: 250px;
-    background: linear-gradient(#ff2371, rgba(255, 40, ));
+    background: linear-gradient(#ff2371, rgba(255, 40, 113));
     border-radius: 50%;
     transform: translate(150px, 150px);
 }
