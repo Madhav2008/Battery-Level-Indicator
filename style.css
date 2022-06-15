@@ -88,7 +88,7 @@ section::after {
     border-bottom-right-radius: 4px;
 }
 
-.batteryShape::before {
+.batteryShape::after {
     content: '';
     position: absolute;
     top: 0;
