@@ -15,4 +15,4 @@ section {
     min-height: 100vh;
 }
 
-section::before {}
+section::before {content: ;}
