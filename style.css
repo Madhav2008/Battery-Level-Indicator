@@ -128,6 +128,5 @@ section::after {
     position: absolute;
     top: 20px;
     right: 20px;
-    background: #161623;
-    width: 30px;
+    background: #161623;width: 30px;
 }
