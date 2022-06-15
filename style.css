@@ -80,5 +80,5 @@ section::after {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    width: 7px;
+    width: 7px;height: 16px;
 }
