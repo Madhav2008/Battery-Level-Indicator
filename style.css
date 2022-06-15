@@ -70,5 +70,5 @@ section::after {
     position: relative;
     width: 140px;
     height: 65px;
-    margin: 20px;
+    margin: 20px 0;
 }
