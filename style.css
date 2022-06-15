@@ -48,5 +48,6 @@ section::after {
     backdrop-filter: blur(25px);
     border-radius: 10px;
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
 }
