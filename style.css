@@ -120,5 +120,5 @@ section::after {
 
 .percent {
     color: #fe3177;
-    font-size: 2em;
+    font-size: 2em;font-weight: 700;
 }
