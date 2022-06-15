@@ -14,7 +14,8 @@
 </head>
 
 <body>
-    <section class="sec"><div></div>
+    <section class="sec">
+        <div></div>
         <div class="box">
             <div class="content">
                 <h3>Battery</h3>
@@ -33,7 +34,7 @@
         let percentage = document.querySelector('.percentage');
         let percent = document.querySelector('.percent');
 
-        navigator.getBattery().then(function (battery) { 
+        navigator.getBattery().then(function (battery) {
             percentage.style.width = (battery.level * 100) + '%';
             percent.innerHTML = (battery.level * 100) + '%';
         });
