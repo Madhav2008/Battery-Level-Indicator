@@ -52,4 +52,6 @@ section::after {
     align-items: center;
 }
 
-.box h3 {color: #9d2cb1;}
+.box h3 {
+    color: #9d2cb1;
+}
