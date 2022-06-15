@@ -124,7 +124,7 @@ section::after {
     font-weight: 700;
 }
 
-.toogle {
+.toggle {
     position: absolute;
     top: 20px;
     right: 20px;
