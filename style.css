@@ -124,4 +124,6 @@ section::after {
     font-weight: 700;
 }
 
-.toogle {position: absolute;}
+.toogle {
+    position: absolute;
+}
