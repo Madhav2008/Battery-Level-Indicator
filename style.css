@@ -145,5 +145,5 @@ section::after {
 }
 
 .dark .toggle {
-    content: '';
+    content: '\f185';
 }
