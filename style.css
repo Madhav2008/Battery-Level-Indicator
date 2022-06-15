@@ -16,7 +16,7 @@ section {
 }
 
 section .dark {
-    background: ;
+    background: #161623;
 }
 
 section::before {
