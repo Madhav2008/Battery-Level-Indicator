@@ -75,4 +75,6 @@ section::after {
     border-radius: 10px;
 }
 
-.batteryShape::before {content: '';}
+.batteryShape::before {
+    content: '';
+}
