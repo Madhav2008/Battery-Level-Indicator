@@ -29,7 +29,7 @@ section::before {
     transform: translate(-150px, -100px);
 }
 
-section section::after {
+section.dark section::after {
     content: '';
     position: absolute;
     width: 250px;
