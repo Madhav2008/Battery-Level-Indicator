@@ -138,7 +138,7 @@ section::after {
     align-items: center;
 }
 
-.toogle::before {
+.toggle::before {
     content: '\f186';
     color: #fff;
 }
