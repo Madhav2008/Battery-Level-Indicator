@@ -135,4 +135,4 @@ section::after {
     border-radius: 50%;
 }
 
-.toogle::before {}
+.toogle::before {content: ;}
