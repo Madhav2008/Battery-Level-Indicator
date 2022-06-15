@@ -92,7 +92,7 @@ section.dark .box h3 {
 }
 
 section.dark .batteryShape {
-    border: 3px solid #333;
+    border: 3px solid #fff;
 }
 
 .batteryShape::before {
