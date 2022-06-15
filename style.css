@@ -44,7 +44,7 @@ section::after {
 }
 
 section.dark::after {
-    background: linear-gradient(#2196f3, #e91e63);
+    background: linear-gradient(#2196f3, #31ff38);
 }
 
 .box {
