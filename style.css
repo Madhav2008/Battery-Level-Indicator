@@ -93,5 +93,5 @@ section::after {
     top: 4px;
     left: 4px;
     right: 4px;
-    bottom: 4px;
+    bottom: 4px;background: #333;
 }
