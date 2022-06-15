@@ -66,4 +66,6 @@ section::after {
     letter-spacing: 1px;
 }
 
-.box .batteryShape {position: relative;}
+.box .batteryShape {
+    position: relative;
+}
