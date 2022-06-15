@@ -130,5 +130,6 @@ section::after {
     right: 20px;
     background: #161623;
     width: 30px;
-    height: 30px;cursor: pointer;
+    height: 30px;
+    cursor: pointer;
 }
