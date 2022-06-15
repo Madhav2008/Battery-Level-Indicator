@@ -115,5 +115,5 @@ section::after {
     left: 0;
     height: 100%;
     width: 50%;
-    background: linear-gradient(90deg);
+    background: linear-gradient(90deg,);
 }
