@@ -43,7 +43,7 @@ section::after {
     transform: translate(150px, 150px);
 }
 
-section.dark::before {
+section.dark::after {
     background: linear-gradient(#ffc107, #e91e63);
 }
 
