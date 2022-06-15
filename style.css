@@ -142,4 +142,6 @@ section::after {
     content: '\f186';
     font-family: fontAwesome;
     color: #fff;
-}.dark
+}
+
+.dark
