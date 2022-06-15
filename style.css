@@ -22,5 +22,5 @@ section::before {
     height: 240px;
     background: linear-gradient(#f3f5f5, #9c27b0);
     border-radius: 50%;
-    transform: translate(-150px);
+    transform: translate(-150px,100px);
 }
