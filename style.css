@@ -124,7 +124,7 @@ section::after {
     font-weight: 700;
 }
 
-.toggle {
+.toogle {
     position: absolute;
     top: 20px;
     right: 20px;
@@ -138,7 +138,7 @@ section::after {
     align-items: center;
 }
 
-.toggle::before {
-    content: 'a';
+.toogle::before {
+    content: '\f186';
     color: #fff;
 }
