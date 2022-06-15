@@ -142,7 +142,7 @@ section.dark .batteryShape::before {
     background: linear-gradient(90deg, #9c28af, #fd2c72);
 }
 
-section.dark .percentage .percent {
+section.dark .percentage{} .percent {
     color: #fe3177;
     font-size: 2em;
     font-weight: 700;
