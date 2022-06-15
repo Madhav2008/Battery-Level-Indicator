@@ -83,5 +83,5 @@ section::after {
     transform: translateY(-50%);
     width: 7px;
     height: 16px;
-    background: #333;
+    background: #333;border-top-right-radius: ;
 }
