@@ -131,5 +131,6 @@ section::after {
     background: #161623;
     width: 30px;
     height: 30px;
-    cursor: pointer;border-radius: 50%;
+    cursor: pointer;
+    border-radius: 50%;
 }
