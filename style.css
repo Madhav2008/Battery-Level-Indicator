@@ -149,5 +149,6 @@ section::after {
 }
 
 .dark .toggle::before {
-    content: '\f185';color: ;
+    content: '\f185';
+    color: ;
 }
