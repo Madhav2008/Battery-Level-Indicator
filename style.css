@@ -30,7 +30,7 @@ section::before {
 }
 
 section.dark::before {
-    background: linear-gradient(#ffc107, );
+    background: linear-gradient(#ffc107, #e91e63);
 }
 
 section::after {
