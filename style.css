@@ -29,7 +29,7 @@ section::before {
     transform: translate(-150px, -100px);
 }
 
-section.dark::before {}
+section.dark::before {background: ;}
 
 section::after {
     content: '';
