@@ -55,5 +55,5 @@ section::after {
 .box h3 {
     color: #9d2cb1;
     font-weight: 500;
-    font-size: 1.2em;
+    font-size: 1.2em;letter-spacing: 1px;
 }
