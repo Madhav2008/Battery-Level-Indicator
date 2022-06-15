@@ -78,20 +78,20 @@ section.dark::after {
     letter-spacing: 1px;
 }
 
-section.dark .box h3{
+section.dark .box h3 {
     color: #fff;
 }
 
- .batteryShape {
+.batteryShape {
     position: relative;
     width: 140px;
     height: 65px;
     margin: 20px 0;
     border: 3px solid #333;
     border-radius: 10px;
-}section.dark .batteryShape
+}
 
-.batteryShape::before {
+section.dark .batteryShape .batteryShape::before {
     content: '';
     position: absolute;
     top: 50%;
