@@ -18,5 +18,5 @@ section {
 section::before {
     content: '';
     position: absolute;
-    width: 240px;
+    width: 240px;height: 240px;
 }
