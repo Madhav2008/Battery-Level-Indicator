@@ -36,5 +36,5 @@ section::after {
 }
 
 .box {
-    position: relative;
+    position: relative;width: 240px;
 }
