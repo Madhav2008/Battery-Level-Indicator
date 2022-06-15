@@ -45,5 +45,5 @@ section::after {
     border: 1px solid rgba(255, 255, 255, 0.25);
     border-right: 1px solid rgba(255, 255, 255, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur();
+    backdrop-filter: blur(25px);
 }
