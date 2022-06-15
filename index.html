@@ -35,11 +35,12 @@
 
         navigator.getBattery().then(function (battery) { battery.addEventListener('levelchange', function() {    
     // Do stuff when the level changes, you can get it
-    // from battery.level
+    // from battery.levelpercentage.style.width = (battery.level * 100) + '%';
+            percent.innerHTML = (battery.level * 100) + '%';
     document.write((battery.level*100)+"%");
   })
-            percentage.style.width = (battery.level * 100) + '%';
-            percent.innerHTML = (battery.level * 100) + '%';
+            // percentage.style.width = (battery.level * 100) + '%';
+            // percent.innerHTML = (battery.level * 100) + '%';
         });
 
     </script>
