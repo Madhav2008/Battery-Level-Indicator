@@ -79,5 +79,5 @@ section::after {
     content: '';
     position: absolute;
     top: 50%;
-    transform: translateY();
+    transform: translateY(-50%);
 }
