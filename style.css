@@ -143,7 +143,7 @@ section.dark .batteryShape::before {
 }
 
 section.dark .percentage {
-    background: linear-gradient(90deg, #9c28af, #fd2c72);
+    background: linear-gradient(90deg, #ffeb3b, #fd2c72);
 }
 
 .percent {
