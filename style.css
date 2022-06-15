@@ -108,7 +108,7 @@ section.dark .batteryShape {
     border-bottom-right-radius: 4px;
 }
 
-section.dark .batteryShape::before {}
+section.dark .batteryShape::before {background: ;}
 
 .batteryShape::after {
     content: '';
