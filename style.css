@@ -91,7 +91,9 @@ section.dark .box h3 {
     border-radius: 10px;
 }
 
-section.dark .batteryShape {}.batteryShape::before {
+section.dark .batteryShape {}
+
+.batteryShape::before {
     content: '';
     position: absolute;
     top: 50%;
