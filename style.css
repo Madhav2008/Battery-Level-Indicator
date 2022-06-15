@@ -13,7 +13,7 @@ section {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-}section .dark{}
+}section .dark {}
 
 section::before {
     content: '';
