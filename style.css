@@ -139,6 +139,6 @@ section::after {
 }
 
 .toggle::before {
-    content: '\f186';
+    content: '\f186';font-family: fontAwesome;
     color: #fff;
 }
