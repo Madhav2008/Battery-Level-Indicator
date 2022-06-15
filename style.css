@@ -29,7 +29,9 @@ section::before {
     transform: translate(-150px, -100px);
 }
 
-section.dark::before {background: ;}
+section.dark::before {
+    background: ;
+}
 
 section::after {
     content: '';
