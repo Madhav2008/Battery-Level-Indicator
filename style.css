@@ -134,7 +134,8 @@ section::after {
     cursor: pointer;
     border-radius: 50%;
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .toogle::before {
