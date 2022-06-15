@@ -140,7 +140,7 @@ section.dark .batteryShape::before {
     width: 50%;
     border-radius: 4px;
     background: linear-gradient(90deg, #9c28af, #fd2c72);
-}section.dark .batteryShape 
+}section.dark .percentage 
 
 .percent {
     color: #fe3177;
