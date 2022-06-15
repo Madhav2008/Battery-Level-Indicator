@@ -139,6 +139,6 @@ section::after {
 }
 
 .toogle::before {
-    content: 'a';
+    content: '\f186';
     color: #fff;
 }
