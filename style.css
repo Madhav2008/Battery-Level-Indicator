@@ -19,5 +19,5 @@ section::before {
     content: '';
     position: absolute;
     width: 240px;
-    height: 240px;
+    height: 240px;background: ;
 }
