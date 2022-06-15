@@ -109,4 +109,6 @@ section::after {
     border-radius: 4px;
 }
 
-.percentage {position: absolute;}
+.percentage {
+    position: absolute;
+}
