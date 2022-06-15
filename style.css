@@ -133,7 +133,7 @@ section::after {
     height: 30px;
     cursor: pointer;
     border-radius: 50%;
-    display: flex;
+    display: flex;justify-content: center;
 }
 
 .toogle::before {
