@@ -79,7 +79,7 @@ section.dark::after {
 }
 
 section.dark .box h3{
-    
+    color: #fff;
 }
 
 .box .batteryShape {
