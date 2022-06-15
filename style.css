@@ -53,5 +53,6 @@ section::after {
 }
 
 .box h3 {
-    color: #9d2cb1;font-weight: 500;
+    color: #9d2cb1;
+    font-weight: 500;
 }
