@@ -15,7 +15,7 @@ section {
     min-height: 100vh;
 }
 
-section .dark {}
+section .dark {background: ;}
 
 section::before {
     content: '';
