@@ -47,5 +47,6 @@ section::after {
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(25px);
     border-radius: 10px;
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
