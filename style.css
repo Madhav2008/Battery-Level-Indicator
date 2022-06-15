@@ -127,5 +127,6 @@ section::after {
 .toogle {
     position: absolute;
     top: 20px;
-    right: 20px;background: #161623;
+    right: 20px;
+    background: #161623;
 }
