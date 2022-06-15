@@ -67,5 +67,6 @@ section::after {
 }
 
 .box .batteryShape {
-    position: relative;width: 140px;
+    position: relative;
+    width: 140px;
 }
