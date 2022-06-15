@@ -125,5 +125,6 @@ section::after {
 }
 
 .toogle {
-    position: absolute;top: 20px;
+    position: absolute;
+    top: 20px;
 }
