@@ -78,7 +78,7 @@ section.dark::after {
     letter-spacing: 1px;
 }
 
-section.dark::after {
+section.dark .box {
     background: linear-gradient(#2196f3, #31ff38);
 }
 
