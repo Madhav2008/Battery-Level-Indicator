@@ -91,7 +91,9 @@ section.dark .box h3 {
     border-radius: 10px;
 }
 
-section.dark .batteryShape {border: 3px solid #333;}
+section.dark .batteryShape {
+    border: 3px solid #333;
+}
 
 .batteryShape::before {
     content: '';
