@@ -54,7 +54,8 @@ section::after {
 
 .content {
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .box h3 {
