@@ -76,5 +76,6 @@ section::after {
 }
 
 .batteryShape::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
