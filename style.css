@@ -144,4 +144,6 @@ section::after {
     color: #fff;
 }
 
-.dark .toggle {content: ;}
+.dark .toggle {
+    content: ;
+}
