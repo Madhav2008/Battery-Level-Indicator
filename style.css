@@ -21,5 +21,5 @@ section::before {
     width: 240px;
     height: 240px;
     background: linear-gradient(#f3f5f5, #9c27b0);
-    border-radius: ;
+    border-radius: 50%;
 }
