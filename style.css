@@ -144,6 +144,6 @@ section::after {
     color: #fff;
 }
 
-.dark .toggle {
+.dark .toggle::before {
     content: '\f185';
 }
